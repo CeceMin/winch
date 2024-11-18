@@ -1,1 +1,12 @@
+[
+  
+{ "url":"Audio/1.wav","type":"audio","bank":"Audio","n":0}
+{ "url":"Audio/2.wav","type":"audio","bank":"Audio","n":1}
+{ "url":"Audio/3.wav","type":"audio","bank":"Audio","n":2}  
+{ "url":"Audio/4.wav","type":"audio","bank":"Audio","n":3}
+{ "url":"Audio/5.wav","type":"audio","bank":"Audio","n":4} 
+{ "url":"Audio/6.wav","type":"audio","bank":"Audio","n":5} 
+{ "url":"Audio/7.wav","type":"audio","bank":"Audio","n":6} 
+{ "url":"Audio/8.wav","type":"audio","bank":"Audio","n":7}  
 
+]
