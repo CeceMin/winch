@@ -2,4 +2,4 @@
 
 +[Audio Samples / Samples de Audio](Audio/README.md)
 
-+[Imagenes](imagen/README.md)
++[Imagenes](Imagen/README.md)
